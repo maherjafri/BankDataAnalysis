@@ -21,5 +21,4 @@ Python | Pandas | NumPy | Matplotlib | Seaborn
 UCI Bank Marketing Dataset — 45,211 records, 17 features
 
 ## Files
-- `banking_analysis.ipynb` — Full EDA notebook
 - `Bank_Client_Data_Analysis_Report.pdf` — Professional report with visualisations
